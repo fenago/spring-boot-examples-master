@@ -1,4 +1,5 @@
-package com.fenago.springboot.microservice.example.forex;
+# package com.fenago.springboot.microservice.example.forex;
+package com.fenago.springboot.microservice.example.forex.springbootmicroserviceforexservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
